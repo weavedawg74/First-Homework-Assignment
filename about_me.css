@@ -1,0 +1,22 @@
+body{
+	font-family: "Verlag A","Verlag B",sans-serif;
+	
+}
+
+h1 {
+	font-size: 60px;
+	color: #0000ff;
+	text-align: center;
+	}
+
+h2 {
+	font-size: 36px;
+	color: #A9A9A9;
+	text-align: center;
+	text-decoration:underline;
+}
+
+p, ul {
+	font-size: 20px;
+}
+
